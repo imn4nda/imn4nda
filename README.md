@@ -1,5 +1,7 @@
 ## Olá! Bem-vindo(a) ao meu perfil!
 
+<img align="right" src="https://github.com/imn4nda/imn4nda/blob/main/cat-waving-hand.gif" width="160">
+
   - :sparkles: Meu nome é Fernanda Mota Lima.
   - :technologist: Concluí o ensino médio no IFES com curso técnico integrado em informática.
   - 💡 Atualmente graduanda de ciência da computação pela UFES.
